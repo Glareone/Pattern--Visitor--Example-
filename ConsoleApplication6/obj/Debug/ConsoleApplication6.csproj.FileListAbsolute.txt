@@ -1,0 +1,10 @@
+c:\users\alexeykolesnikov\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\alexeykolesnikov\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\alexeykolesnikov\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\alexeykolesnikov\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\alexeykolesnikov\documents\visual studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\Myproject_git\Visitor Pattern Example\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\Myproject_git\Visitor Pattern Example\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Myproject_git\Visitor Pattern Example\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\Myproject_git\Visitor Pattern Example\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Myproject_git\Visitor Pattern Example\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
