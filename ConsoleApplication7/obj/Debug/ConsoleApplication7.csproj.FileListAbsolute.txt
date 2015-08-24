@@ -1,0 +1,5 @@
+D:\Myproject_git\Visitor Pattern Example\Pattern--Visitor--Example-\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+D:\Myproject_git\Visitor Pattern Example\Pattern--Visitor--Example-\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\Myproject_git\Visitor Pattern Example\Pattern--Visitor--Example-\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\Myproject_git\Visitor Pattern Example\Pattern--Visitor--Example-\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\Myproject_git\Visitor Pattern Example\Pattern--Visitor--Example-\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
